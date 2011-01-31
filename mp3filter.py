@@ -4,7 +4,7 @@
 __module_name__ = "Filter for mp3 notification"
 __module_version__ = "0.0.4"
 __module_description__ = "Hide mp3's notification on irc channels"
-__module_author__ = "Mirko 'dea7h' Chialastri"
+__module_author__ = "Mirko Chialastri"
 
 ######### Config #############
 filter_event = (
